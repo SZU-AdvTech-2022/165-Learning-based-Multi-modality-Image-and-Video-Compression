@@ -1,0 +1,7 @@
+@inproceedings{lu2022learning,
+  title={Learning based Multi-modality Image and Video Compression},
+  author={Lu, Guo and Zhong, Tianxiong and Geng, Jing and Hu, Qiang and Xu, Dong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6083--6092},
+  year={2022}
+}
